@@ -9,4 +9,4 @@ pip install pymupdf pandas ace-tools
 python3 -c "import fitz, pandas, PIL, ace-tools; print('Todo funciona correctamente')"
 
 # Para correr el script
-python3 Boletas_CGE_Data_Extraction.py
+python3 CGE-extract_data.py
